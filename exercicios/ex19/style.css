@@ -1,0 +1,43 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'London' ;
+    src: url('fontes/Olondon_.otf') format('opentype'), url('fontes/OldLondon.ttf') format('truetype');
+}
+h1#principal{
+    /*
+    Em html é id = em css é #
+    Em html é class em css é .
+                */
+    background-color: rgb(4, 109, 0);
+    text-align: center;
+    font: italic normal 3em 'London';
+    color: rgb(255, 255, 255);
+} 
+h1{
+    color: rgb(4, 109, 0);
+    font-family: 'London', sans-serif;
+}
+body{
+    background-color: rgb(205, 255,  203);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: 'London', sans-serif;
+    font-size: 32px;
+    color: rgb(73, 109, 71);
+    
+}
+
+.basico{
+    color: rgb(73, 109, 71);
+    font: italic bolder 2em 'London', sans-serif;
+}
+
+.intermediario{
+    color: rgb(120, 132, 42);
+}
+
+.avancado{
+    color: rgb(165, 26, 26);
+}

@@ -1,0 +1,5 @@
+Diferença entre Git e GitHub
+
+Git- (repositório local) gerenciadcor de versões=salvar versões
+
+GitHub-(repositório remoto) hospedar sites

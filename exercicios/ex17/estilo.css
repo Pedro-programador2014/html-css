@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'London' ;
+    src: url('fontes/Olondon_.otf') format('opentype'), url('fontes/OldLondon.ttf') format('truetype');
+}
+body{
+    font: italic normal 1em 'London', sans-serif;
+    text-align: left
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+h2{
+    font-size: 2.5em;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
